@@ -1,0 +1,6 @@
+__pycache__/
+.dvc/tmp/
+.dvc/cache/
+data/raw/
+models/
+*.pyc
